@@ -1,0 +1,16 @@
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Monteiro
+CPF: 496.239.501-17
+Data de Nascimento: 12/6/1981
+Residência: 285-J
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A1
+Capacidade: 29 convidado(s)
+Data da reserva: 27/8/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 3%
+------------------------------

@@ -1,0 +1,32 @@
+--------- RESERVA -----------
+Morador: 
+Nome: Fernanda Almeida
+CPF: 140.019.590-89
+Data de Nascimento: 8/6/1970
+Residência: 943-Q
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A1
+Capacidade: 53 convidado(s)
+Data da reserva: 10/1/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Amanda Rezende
+CPF: 666.365.069-03
+Data de Nascimento: 5/12/2005
+Residência: 165-G
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A1
+Capacidade: 53 convidado(s)
+Data da reserva: 20/4/2024
+
+Quantidade de convidados: 34
+Taxa de ocupação: 64%
+------------------------------

@@ -1,0 +1,8464 @@
+--------- RESERVA -----------
+Morador: 
+Nome: André Oliveira
+CPF: 775.907.334-20
+Data de Nascimento: 13/2/1983
+Residência: 515-D
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 10/6/2024
+
+Quantidade de convidados: 45
+Taxa de ocupação: 97%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vitor Barros
+CPF: 832.874.325-92
+Data de Nascimento: 21/4/1999
+Residência: 613-J
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 23/7/2024
+
+Quantidade de convidados: 23
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leticia Carvalho
+CPF: 019.714.344-06
+Data de Nascimento: 14/11/1999
+Residência: 576-C
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 4/3/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Clara Souza
+CPF: 304.012.161-93
+Data de Nascimento: 18/1/2002
+Residência: 391-W
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 19/6/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 61%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Barbosa
+CPF: 628.874.305-45
+Data de Nascimento: 26/12/1991
+Residência: 234-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 20/12/2024
+
+Quantidade de convidados: 18
+Taxa de ocupação: 39%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Borges
+CPF: 509.674.962-63
+Data de Nascimento: 19/6/1991
+Residência: 869-U
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 28/5/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 20%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Camila Santos
+CPF: 030.108.187-30
+Data de Nascimento: 16/2/1988
+Residência: 082-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 3/12/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Eduardo Campos
+CPF: 216.748.719-23
+Data de Nascimento: 10/9/1991
+Residência: 127-C
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 20/8/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 6%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Azevedo
+CPF: 903.776.306-40
+Data de Nascimento: 24/6/1993
+Residência: 503-T
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 1/2/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Aline Campos
+CPF: 922.605.379-90
+Data de Nascimento: 5/3/1984
+Residência: 149-W
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 4/11/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leonardo Ribeiro
+CPF: 839.384.984-24
+Data de Nascimento: 1/6/2000
+Residência: 200-Y
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 24/5/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 20%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Araujo
+CPF: 962.895.235-32
+Data de Nascimento: 7/4/1979
+Residência: 832-R
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 5/9/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Tavares
+CPF: 259.149.263-85
+Data de Nascimento: 11/1/1997
+Residência: 255-K
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 22/7/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Ramos
+CPF: 343.050.419-78
+Data de Nascimento: 5/11/1995
+Residência: 334-P
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 16/4/2024
+
+Quantidade de convidados: 40
+Taxa de ocupação: 86%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Ana Coelho
+CPF: 226.173.958-25
+Data de Nascimento: 20/9/1985
+Residência: 036-D
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 19/9/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafael Guimaraes
+CPF: 763.609.541-34
+Data de Nascimento: 15/4/1977
+Residência: 253-W
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 16/3/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Maria Almeida
+CPF: 045.430.948-04
+Data de Nascimento: 15/2/1974
+Residência: 218-M
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 14/6/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 36%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sofia Ribeiro
+CPF: 106.125.851-84
+Data de Nascimento: 16/8/1995
+Residência: 154-C
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 8/8/2024
+
+Quantidade de convidados: 41
+Taxa de ocupação: 89%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Macedo
+CPF: 196.507.385-70
+Data de Nascimento: 17/5/1978
+Residência: 492-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 17/4/2024
+
+Quantidade de convidados: 29
+Taxa de ocupação: 63%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Amanda Cardoso
+CPF: 687.768.910-79
+Data de Nascimento: 26/8/1991
+Residência: 753-G
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 7/3/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Figueiredo
+CPF: 225.509.702-26
+Data de Nascimento: 3/10/1992
+Residência: 237-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 28/8/2024
+
+Quantidade de convidados: 28
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcelo Silveira
+CPF: 092.531.491-30
+Data de Nascimento: 2/11/1981
+Residência: 203-S
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 14/8/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rodrigo Andrade
+CPF: 864.285.743-97
+Data de Nascimento: 3/2/1987
+Residência: 627-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 1/6/2024
+
+Quantidade de convidados: 38
+Taxa de ocupação: 82%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Vieira
+CPF: 127.096.683-72
+Data de Nascimento: 9/5/2001
+Residência: 293-T
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 14/8/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 26%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Pedro Ramos
+CPF: 023.409.642-79
+Data de Nascimento: 14/7/1990
+Residência: 332-N
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 17/11/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Eduardo Miranda
+CPF: 864.908.138-20
+Data de Nascimento: 24/9/1977
+Residência: 184-T
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 17/11/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Roberto Vieira
+CPF: 895.274.403-35
+Data de Nascimento: 18/7/2005
+Residência: 160-J
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 27/2/2024
+
+Quantidade de convidados: 22
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafaela Macedo
+CPF: 427.985.541-76
+Data de Nascimento: 21/4/1973
+Residência: 250-O
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 19/4/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 19%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Maria Cavalcante
+CPF: 031.275.784-22
+Data de Nascimento: 5/4/1986
+Residência: 233-R
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 19/12/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Azevedo
+CPF: 475.519.652-73
+Data de Nascimento: 25/11/1978
+Residência: 496-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 2/12/2024
+
+Quantidade de convidados: 34
+Taxa de ocupação: 73%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leonardo Silva
+CPF: 039.796.484-84
+Data de Nascimento: 9/1/2004
+Residência: 883-V
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 6/6/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 33%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Carolina Duarte
+CPF: 157.306.342-03
+Data de Nascimento: 27/2/1985
+Residência: 891-E
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 13/3/2024
+
+Quantidade de convidados: 31
+Taxa de ocupação: 67%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Ricardo Miranda
+CPF: 950.261.400-14
+Data de Nascimento: 10/7/1978
+Residência: 696-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 4/6/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 36%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Pedro Batista
+CPF: 723.640.708-16
+Data de Nascimento: 20/11/1988
+Residência: 526-T
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 4/9/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 61%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Maria Lima
+CPF: 220.662.328-85
+Data de Nascimento: 27/6/1982
+Residência: 767-P
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 12/5/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 71%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gabriela Ferreira
+CPF: 835.157.145-94
+Data de Nascimento: 2/7/1988
+Residência: 048-J
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 21/3/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Batista
+CPF: 454.878.417-96
+Data de Nascimento: 27/12/1992
+Residência: 363-N
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 16/9/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 43%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Cunha
+CPF: 759.680.961-33
+Data de Nascimento: 1/6/1977
+Residência: 641-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 1/5/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Santos
+CPF: 413.883.900-95
+Data de Nascimento: 12/3/1993
+Residência: 785-I
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 5/6/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gabriela Ribeiro
+CPF: 272.754.294-18
+Data de Nascimento: 16/1/1981
+Residência: 525-E
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 9/11/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Ribeiro
+CPF: 397.205.427-39
+Data de Nascimento: 11/6/1970
+Residência: 142-D
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 5/11/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 36%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Almeida
+CPF: 047.994.913-80
+Data de Nascimento: 10/5/1985
+Residência: 314-U
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 28/12/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 9%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Moura
+CPF: 514.089.737-50
+Data de Nascimento: 25/3/1989
+Residência: 534-P
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 20/1/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Araujo
+CPF: 962.895.235-32
+Data de Nascimento: 7/4/1979
+Residência: 832-R
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 18/4/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Alexandre Santos
+CPF: 764.693.709-88
+Data de Nascimento: 6/2/1992
+Residência: 775-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 26/1/2024
+
+Quantidade de convidados: 33
+Taxa de ocupação: 71%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Larissa Coelho
+CPF: 947.780.984-73
+Data de Nascimento: 23/11/2004
+Residência: 267-N
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 24/6/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 45%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Costa
+CPF: 590.782.082-25
+Data de Nascimento: 18/10/1997
+Residência: 212-M
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 14/7/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Costa
+CPF: 158.325.952-48
+Data de Nascimento: 10/5/1982
+Residência: 694-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 27/8/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Ramos
+CPF: 343.050.419-78
+Data de Nascimento: 5/11/1995
+Residência: 334-P
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 1/1/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Vieira
+CPF: 292.780.545-45
+Data de Nascimento: 19/2/1999
+Residência: 848-K
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 19/1/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Ramos
+CPF: 410.866.634-07
+Data de Nascimento: 21/10/1971
+Residência: 993-V
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 22/8/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 30%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Larissa Rezende
+CPF: 038.627.988-20
+Data de Nascimento: 25/6/1972
+Residência: 053-N
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 16/11/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 20%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Dias
+CPF: 447.185.493-61
+Data de Nascimento: 15/4/1994
+Residência: 618-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 2/5/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gabriela Ribeiro
+CPF: 272.754.294-18
+Data de Nascimento: 16/1/1981
+Residência: 525-E
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 20/10/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 18%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafael Martins
+CPF: 815.819.565-89
+Data de Nascimento: 27/8/1988
+Residência: 071-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 28/11/2024
+
+Quantidade de convidados: 26
+Taxa de ocupação: 56%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Clara Souza
+CPF: 304.012.161-93
+Data de Nascimento: 18/1/2002
+Residência: 391-W
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 6/1/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 63%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernanda Guimaraes
+CPF: 163.565.572-89
+Data de Nascimento: 25/4/1997
+Residência: 095-K
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 3/3/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 26%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Eduardo Barbosa
+CPF: 150.647.674-45
+Data de Nascimento: 14/4/2003
+Residência: 769-F
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 4/5/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Costa
+CPF: 158.325.952-48
+Data de Nascimento: 10/5/1982
+Residência: 694-Q
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 16/2/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 18%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Pedro Vieira
+CPF: 575.349.104-37
+Data de Nascimento: 27/10/1974
+Residência: 969-A
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 2/12/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Pedro Vieira
+CPF: 575.349.104-37
+Data de Nascimento: 27/10/1974
+Residência: 969-A
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 9/5/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Campos
+CPF: 533.139.702-94
+Data de Nascimento: 26/3/2005
+Residência: 800-E
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 24/2/2024
+
+Quantidade de convidados: 28
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernanda Guimaraes
+CPF: 163.565.572-89
+Data de Nascimento: 25/4/1997
+Residência: 095-K
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 7/2/2024
+
+Quantidade de convidados: 25
+Taxa de ocupação: 54%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rodrigo Andrade
+CPF: 864.285.743-97
+Data de Nascimento: 3/2/1987
+Residência: 627-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 17/1/2024
+
+Quantidade de convidados: 38
+Taxa de ocupação: 82%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Alexandre Cunha
+CPF: 732.222.222-93
+Data de Nascimento: 9/1/1999
+Residência: 254-J
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 27/6/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Pereira
+CPF: 533.491.214-63
+Data de Nascimento: 22/2/1981
+Residência: 974-H
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 6/4/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 68%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Larissa Coelho
+CPF: 947.780.984-73
+Data de Nascimento: 23/11/2004
+Residência: 267-N
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 16/5/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 45%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Ribeiro
+CPF: 994.270.847-65
+Data de Nascimento: 23/7/1985
+Residência: 331-R
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 8/10/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 32%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gabriela Ferreira
+CPF: 835.157.145-94
+Data de Nascimento: 2/7/1988
+Residência: 048-J
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 8/10/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 66%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Duarte
+CPF: 240.490.861-47
+Data de Nascimento: 11/4/2001
+Residência: 947-F
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 3/7/2024
+
+Quantidade de convidados: 18
+Taxa de ocupação: 39%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Azevedo
+CPF: 475.519.652-73
+Data de Nascimento: 25/11/1978
+Residência: 496-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 27/8/2024
+
+Quantidade de convidados: 25
+Taxa de ocupação: 54%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Amanda Fernandes
+CPF: 035.602.760-00
+Data de Nascimento: 25/6/1985
+Residência: 448-S
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 2/6/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sara Costa
+CPF: 767.048.901-09
+Data de Nascimento: 27/6/1983
+Residência: 517-U
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 8/12/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 66%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Roberto Teixeira
+CPF: 211.760.712-95
+Data de Nascimento: 8/1/1990
+Residência: 891-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 15/11/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Rezende
+CPF: 491.877.650-47
+Data de Nascimento: 6/5/1978
+Residência: 011-J
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 27/9/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 77%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Araujo
+CPF: 962.895.235-32
+Data de Nascimento: 7/4/1979
+Residência: 832-R
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 11/4/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafael Martins
+CPF: 815.819.565-89
+Data de Nascimento: 27/8/1988
+Residência: 071-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 13/10/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 45%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Almeida
+CPF: 459.956.840-57
+Data de Nascimento: 21/8/1977
+Residência: 688-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 4/12/2024
+
+Quantidade de convidados: 22
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Beatriz Miranda
+CPF: 454.965.541-99
+Data de Nascimento: 20/2/1986
+Residência: 914-E
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 9/4/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 36%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Sampaio
+CPF: 916.224.515-48
+Data de Nascimento: 3/4/1976
+Residência: 919-P
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 17/9/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Julia Melo
+CPF: 242.296.443-93
+Data de Nascimento: 26/10/1980
+Residência: 392-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 13/5/2024
+
+Quantidade de convidados: 42
+Taxa de ocupação: 91%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leonardo Ribeiro
+CPF: 839.384.984-24
+Data de Nascimento: 1/6/2000
+Residência: 200-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 8/12/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 19%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Sampaio
+CPF: 868.634.915-43
+Data de Nascimento: 7/3/2000
+Residência: 578-I
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 17/9/2024
+
+Quantidade de convidados: 26
+Taxa de ocupação: 56%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Teixeira
+CPF: 843.106.851-21
+Data de Nascimento: 21/5/1973
+Residência: 777-M
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 12/8/2024
+
+Quantidade de convidados: 22
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Pedro Ramos
+CPF: 023.409.642-79
+Data de Nascimento: 14/7/1990
+Residência: 332-N
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 4/6/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leticia Carvalho
+CPF: 019.714.344-06
+Data de Nascimento: 14/11/1999
+Residência: 576-C
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 13/1/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Matheus Barros
+CPF: 753.151.624-98
+Data de Nascimento: 22/12/1975
+Residência: 191-T
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 14/3/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 41%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Lucas Ferreira
+CPF: 836.139.967-00
+Data de Nascimento: 11/10/2000
+Residência: 335-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 17/6/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 43%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Andrade
+CPF: 136.746.085-47
+Data de Nascimento: 19/6/1981
+Residência: 848-P
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 25/4/2024
+
+Quantidade de convidados: 38
+Taxa de ocupação: 82%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Mendes
+CPF: 961.975.101-01
+Data de Nascimento: 9/10/1988
+Residência: 936-Q
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 15/7/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Freitas
+CPF: 567.065.870-41
+Data de Nascimento: 26/4/1991
+Residência: 976-J
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 4/8/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernanda Guimaraes
+CPF: 163.565.572-89
+Data de Nascimento: 25/4/1997
+Residência: 095-K
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 1/12/2024
+
+Quantidade de convidados: 30
+Taxa de ocupação: 65%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Dias
+CPF: 173.114.558-67
+Data de Nascimento: 18/9/1975
+Residência: 188-A
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 26/6/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernanda Souza
+CPF: 713.724.623-77
+Data de Nascimento: 20/10/1993
+Residência: 495-V
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 16/8/2024
+
+Quantidade de convidados: 30
+Taxa de ocupação: 65%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Eduardo Barbosa
+CPF: 150.647.674-45
+Data de Nascimento: 14/4/2003
+Residência: 769-F
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 11/10/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 38%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Clara Cunha
+CPF: 000.394.387-70
+Data de Nascimento: 3/11/2002
+Residência: 496-D
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 6/4/2024
+
+Quantidade de convidados: 28
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Santos
+CPF: 413.883.900-95
+Data de Nascimento: 12/3/1993
+Residência: 785-I
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 1/3/2024
+
+Quantidade de convidados: 27
+Taxa de ocupação: 58%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Coelho
+CPF: 318.712.279-96
+Data de Nascimento: 15/9/1970
+Residência: 137-V
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 10/11/2024
+
+Quantidade de convidados: 44
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Nunes
+CPF: 215.655.340-32
+Data de Nascimento: 25/1/1974
+Residência: 347-K
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 28/7/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 57%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Moreira
+CPF: 548.717.928-18
+Data de Nascimento: 12/4/1979
+Residência: 983-C
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 25/10/2024
+
+Quantidade de convidados: 37
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Roberto Teixeira
+CPF: 211.760.712-95
+Data de Nascimento: 8/1/1990
+Residência: 891-Z
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 5/4/2024
+
+Quantidade de convidados: 18
+Taxa de ocupação: 81%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Dias
+CPF: 447.185.493-61
+Data de Nascimento: 15/4/1994
+Residência: 618-Q
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 23/3/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Sampaio
+CPF: 868.634.915-43
+Data de Nascimento: 7/3/2000
+Residência: 578-I
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 25/12/2024
+
+Quantidade de convidados: 25
+Taxa de ocupação: 54%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Cunha
+CPF: 759.680.961-33
+Data de Nascimento: 1/6/1977
+Residência: 641-O
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 14/1/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 31%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Dias
+CPF: 173.114.558-67
+Data de Nascimento: 18/9/1975
+Residência: 188-A
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 16/6/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 9%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Helena Andrade
+CPF: 528.907.763-42
+Data de Nascimento: 24/5/1991
+Residência: 644-Q
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 21/2/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Tavares
+CPF: 259.149.263-85
+Data de Nascimento: 11/1/1997
+Residência: 255-K
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 5/6/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Santos
+CPF: 520.764.448-62
+Data de Nascimento: 15/4/1970
+Residência: 758-D
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 14/10/2024
+
+Quantidade de convidados: 29
+Taxa de ocupação: 63%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Tavares
+CPF: 192.096.412-96
+Data de Nascimento: 8/9/1972
+Residência: 980-G
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 19/12/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 9%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Eduardo Tavares
+CPF: 973.389.293-40
+Data de Nascimento: 7/9/1984
+Residência: 607-R
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 26/1/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Maria Lima
+CPF: 220.662.328-85
+Data de Nascimento: 27/6/1982
+Residência: 767-P
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 1/10/2024
+
+Quantidade de convidados: 46
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leonardo Silva
+CPF: 039.796.484-84
+Data de Nascimento: 9/1/2004
+Residência: 883-V
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 22/8/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Helena Ribeiro
+CPF: 184.629.516-07
+Data de Nascimento: 24/8/1975
+Residência: 944-S
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 1/7/2024
+
+Quantidade de convidados: 34
+Taxa de ocupação: 73%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafaela Macedo
+CPF: 427.985.541-76
+Data de Nascimento: 21/4/1973
+Residência: 250-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 28/3/2024
+
+Quantidade de convidados: 40
+Taxa de ocupação: 86%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Beatriz Vieira
+CPF: 532.034.900-41
+Data de Nascimento: 27/1/1989
+Residência: 421-I
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 24/7/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 30%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leonardo Fernandes
+CPF: 780.813.196-44
+Data de Nascimento: 3/11/1994
+Residência: 264-A
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 7/12/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 68%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Amanda Rezende
+CPF: 362.711.209-26
+Data de Nascimento: 6/8/1972
+Residência: 894-B
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 19/4/2024
+
+Quantidade de convidados: 23
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Costa
+CPF: 158.325.952-48
+Data de Nascimento: 10/5/1982
+Residência: 694-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 1/11/2024
+
+Quantidade de convidados: 42
+Taxa de ocupação: 91%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vitor Gomes
+CPF: 211.488.558-24
+Data de Nascimento: 24/2/1990
+Residência: 004-S
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 11/12/2024
+
+Quantidade de convidados: 41
+Taxa de ocupação: 89%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Pedro Santos
+CPF: 062.930.397-79
+Data de Nascimento: 15/9/1976
+Residência: 153-Q
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 19/8/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernanda Oliveira
+CPF: 046.021.428-22
+Data de Nascimento: 10/10/1983
+Residência: 926-X
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 3/4/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Barros
+CPF: 348.962.785-05
+Data de Nascimento: 12/2/1975
+Residência: 572-Q
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 28/9/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 27%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Coelho
+CPF: 489.640.193-97
+Data de Nascimento: 26/12/1984
+Residência: 527-L
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 1/9/2024
+
+Quantidade de convidados: 44
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Carlos Nunes
+CPF: 687.027.164-76
+Data de Nascimento: 9/12/1993
+Residência: 057-A
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 24/6/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Luiza Guimaraes
+CPF: 789.122.795-43
+Data de Nascimento: 11/10/1977
+Residência: 839-I
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 18/4/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Dias
+CPF: 818.713.842-12
+Data de Nascimento: 26/8/1983
+Residência: 822-O
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 22/1/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 38%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Santos
+CPF: 520.764.448-62
+Data de Nascimento: 15/4/1970
+Residência: 758-D
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 12/6/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 86%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Helena Ribeiro
+CPF: 184.629.516-07
+Data de Nascimento: 24/8/1975
+Residência: 944-S
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 5/2/2024
+
+Quantidade de convidados: 41
+Taxa de ocupação: 89%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Dias
+CPF: 818.713.842-12
+Data de Nascimento: 26/8/1983
+Residência: 822-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 15/8/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 15%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Alexandre Santos
+CPF: 764.693.709-88
+Data de Nascimento: 6/2/1992
+Residência: 775-H
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 5/6/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Julia Melo
+CPF: 242.296.443-93
+Data de Nascimento: 26/10/1980
+Residência: 392-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 3/1/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 19%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Freitas
+CPF: 590.032.448-02
+Data de Nascimento: 20/5/2005
+Residência: 682-A
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 7/10/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 45%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Andrade
+CPF: 141.813.351-57
+Data de Nascimento: 10/11/1981
+Residência: 332-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 22/1/2024
+
+Quantidade de convidados: 38
+Taxa de ocupação: 82%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Duarte
+CPF: 240.490.861-47
+Data de Nascimento: 11/4/2001
+Residência: 947-F
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 18/7/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Sampaio
+CPF: 916.224.515-48
+Data de Nascimento: 3/4/1976
+Residência: 919-P
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 9/1/2024
+
+Quantidade de convidados: 22
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruno Campos
+CPF: 234.495.226-77
+Data de Nascimento: 9/7/1989
+Residência: 924-D
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 19/8/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Aline Campos
+CPF: 922.605.379-90
+Data de Nascimento: 5/3/1984
+Residência: 149-W
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 19/8/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 61%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Duarte
+CPF: 240.490.861-47
+Data de Nascimento: 11/4/2001
+Residência: 947-F
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 11/7/2024
+
+Quantidade de convidados: 23
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Maria Vieira
+CPF: 863.925.054-54
+Data de Nascimento: 17/4/2000
+Residência: 381-D
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 24/1/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 8%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Rezende
+CPF: 491.877.650-47
+Data de Nascimento: 6/5/1978
+Residência: 011-J
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 14/5/2024
+
+Quantidade de convidados: 35
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Camila Cunha
+CPF: 918.549.098-91
+Data de Nascimento: 8/12/1994
+Residência: 720-N
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 18/10/2024
+
+Quantidade de convidados: 28
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Ana Araujo
+CPF: 319.186.798-85
+Data de Nascimento: 19/12/2005
+Residência: 070-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 3/8/2024
+
+Quantidade de convidados: 23
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafael Araujo
+CPF: 477.429.738-58
+Data de Nascimento: 13/5/1989
+Residência: 854-Y
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 26/9/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 68%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Maria Lima
+CPF: 220.662.328-85
+Data de Nascimento: 27/6/1982
+Residência: 767-P
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 16/11/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 9%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Cunha
+CPF: 759.680.961-33
+Data de Nascimento: 1/6/1977
+Residência: 641-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 23/3/2024
+
+Quantidade de convidados: 28
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcelo Coelho
+CPF: 827.842.531-04
+Data de Nascimento: 14/8/1970
+Residência: 356-S
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 5/3/2024
+
+Quantidade de convidados: 28
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafaela Macedo
+CPF: 427.985.541-76
+Data de Nascimento: 21/4/1973
+Residência: 250-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 10/4/2024
+
+Quantidade de convidados: 27
+Taxa de ocupação: 58%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Duarte
+CPF: 240.490.861-47
+Data de Nascimento: 11/4/2001
+Residência: 947-F
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 18/2/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 2%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Moreira
+CPF: 548.717.928-18
+Data de Nascimento: 12/4/1979
+Residência: 983-C
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 27/9/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 71%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Freitas
+CPF: 326.026.261-26
+Data de Nascimento: 10/7/1994
+Residência: 843-B
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 2/10/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 21%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Ribeiro
+CPF: 994.270.847-65
+Data de Nascimento: 23/7/1985
+Residência: 331-R
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 27/3/2024
+
+Quantidade de convidados: 18
+Taxa de ocupação: 39%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Azevedo
+CPF: 475.519.652-73
+Data de Nascimento: 25/11/1978
+Residência: 496-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 22/6/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Matheus Fernandes
+CPF: 898.937.397-59
+Data de Nascimento: 20/3/1996
+Residência: 126-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 24/3/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 10%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Santos
+CPF: 413.883.900-95
+Data de Nascimento: 12/3/1993
+Residência: 785-I
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 25/5/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 63%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Silva
+CPF: 472.348.043-92
+Data de Nascimento: 1/12/1973
+Residência: 271-A
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 6/4/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernanda Guimaraes
+CPF: 163.565.572-89
+Data de Nascimento: 25/4/1997
+Residência: 095-K
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 8/1/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 14%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Costa
+CPF: 661.616.828-77
+Data de Nascimento: 16/10/1970
+Residência: 625-U
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 16/8/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Azevedo
+CPF: 475.519.652-73
+Data de Nascimento: 25/11/1978
+Residência: 496-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 18/9/2024
+
+Quantidade de convidados: 40
+Taxa de ocupação: 86%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: André Azevedo
+CPF: 595.259.080-74
+Data de Nascimento: 2/4/2005
+Residência: 976-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 9/7/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Andrade
+CPF: 141.813.351-57
+Data de Nascimento: 10/11/1981
+Residência: 332-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 1/4/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 41%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Tavares
+CPF: 586.578.249-46
+Data de Nascimento: 4/10/1981
+Residência: 010-K
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 15/8/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 59%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Beatriz Silva
+CPF: 023.260.302-11
+Data de Nascimento: 13/11/1986
+Residência: 471-H
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 25/7/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rodrigo Andrade
+CPF: 864.285.743-97
+Data de Nascimento: 3/2/1987
+Residência: 627-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 5/12/2024
+
+Quantidade de convidados: 29
+Taxa de ocupação: 63%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Coelho
+CPF: 318.712.279-96
+Data de Nascimento: 15/9/1970
+Residência: 137-V
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 12/6/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rodrigo Santos
+CPF: 303.582.653-08
+Data de Nascimento: 9/7/1981
+Residência: 858-D
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 22/3/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 27%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Beatriz Freitas
+CPF: 369.222.808-20
+Data de Nascimento: 11/3/1993
+Residência: 896-P
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 8/6/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 21%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Alexandre Santos
+CPF: 764.693.709-88
+Data de Nascimento: 6/2/1992
+Residência: 775-H
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 5/11/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 9%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Aline Costa
+CPF: 638.575.814-29
+Data de Nascimento: 1/4/1976
+Residência: 890-V
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 23/10/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 9%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rodrigo Santos
+CPF: 303.582.653-08
+Data de Nascimento: 9/7/1981
+Residência: 858-D
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 4/2/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 77%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Freitas
+CPF: 567.065.870-41
+Data de Nascimento: 26/4/1991
+Residência: 976-J
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 27/7/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 77%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leonardo Silva
+CPF: 039.796.484-84
+Data de Nascimento: 9/1/2004
+Residência: 883-V
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 7/3/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 21%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Tavares
+CPF: 192.096.412-96
+Data de Nascimento: 8/9/1972
+Residência: 980-G
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 16/7/2024
+
+Quantidade de convidados: 25
+Taxa de ocupação: 54%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Almeida
+CPF: 047.994.913-80
+Data de Nascimento: 10/5/1985
+Residência: 314-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 26/2/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 21%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Julia Ramos
+CPF: 320.614.978-03
+Data de Nascimento: 15/5/1976
+Residência: 259-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 13/11/2024
+
+Quantidade de convidados: 46
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Pereira
+CPF: 316.525.619-28
+Data de Nascimento: 24/9/1971
+Residência: 632-Y
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 15/2/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 18%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Macedo
+CPF: 196.507.385-70
+Data de Nascimento: 17/5/1978
+Residência: 492-U
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 17/5/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Cunha
+CPF: 759.680.961-33
+Data de Nascimento: 1/6/1977
+Residência: 641-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 27/11/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 6%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Almeida
+CPF: 459.956.840-57
+Data de Nascimento: 21/8/1977
+Residência: 688-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 9/3/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 32%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sara Sampaio
+CPF: 479.368.645-68
+Data de Nascimento: 20/6/2000
+Residência: 597-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 23/11/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Coelho
+CPF: 215.644.610-60
+Data de Nascimento: 14/12/1998
+Residência: 173-Z
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 8/9/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Figueiredo
+CPF: 830.977.879-05
+Data de Nascimento: 15/2/1983
+Residência: 551-N
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 23/11/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 19%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Freitas
+CPF: 326.026.261-26
+Data de Nascimento: 10/7/1994
+Residência: 843-B
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 25/8/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 42%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Aline Lima
+CPF: 357.063.932-17
+Data de Nascimento: 21/12/2004
+Residência: 366-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 27/10/2024
+
+Quantidade de convidados: 31
+Taxa de ocupação: 67%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Ana Sampaio
+CPF: 314.751.436-21
+Data de Nascimento: 7/7/1983
+Residência: 159-H
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 3/10/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 86%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Helena Freitas
+CPF: 369.030.644-88
+Data de Nascimento: 5/7/1986
+Residência: 158-S
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 20/5/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 38%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gabriela Fernandes
+CPF: 059.507.817-50
+Data de Nascimento: 12/8/1982
+Residência: 007-I
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 11/9/2024
+
+Quantidade de convidados: 32
+Taxa de ocupação: 69%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Almeida
+CPF: 459.956.840-57
+Data de Nascimento: 21/8/1977
+Residência: 688-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 26/5/2024
+
+Quantidade de convidados: 38
+Taxa de ocupação: 82%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Matheus Barros
+CPF: 753.151.624-98
+Data de Nascimento: 22/12/1975
+Residência: 191-T
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 2/6/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 21%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Duarte
+CPF: 240.490.861-47
+Data de Nascimento: 11/4/2001
+Residência: 947-F
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 12/11/2024
+
+Quantidade de convidados: 33
+Taxa de ocupação: 71%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Larissa Rezende
+CPF: 038.627.988-20
+Data de Nascimento: 25/6/1972
+Residência: 053-N
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 15/6/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 45%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Ribeiro
+CPF: 397.205.427-39
+Data de Nascimento: 11/6/1970
+Residência: 142-D
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 8/3/2024
+
+Quantidade de convidados: 46
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Santos
+CPF: 520.764.448-62
+Data de Nascimento: 15/4/1970
+Residência: 758-D
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 17/7/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 21%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Tavares
+CPF: 259.149.263-85
+Data de Nascimento: 11/1/1997
+Residência: 255-K
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 1/9/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 52%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Macedo
+CPF: 196.507.385-70
+Data de Nascimento: 17/5/1978
+Residência: 492-U
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 12/9/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 31%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Coelho
+CPF: 318.712.279-96
+Data de Nascimento: 15/9/1970
+Residência: 137-V
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 27/5/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 68%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Maria Lima
+CPF: 220.662.328-85
+Data de Nascimento: 27/6/1982
+Residência: 767-P
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 3/5/2024
+
+Quantidade de convidados: 36
+Taxa de ocupação: 78%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Alexandre Santos
+CPF: 764.693.709-88
+Data de Nascimento: 6/2/1992
+Residência: 775-H
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 4/10/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 52%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Helena Freitas
+CPF: 369.030.644-88
+Data de Nascimento: 5/7/1986
+Residência: 158-S
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 27/5/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 42%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Eduardo Barbosa
+CPF: 150.647.674-45
+Data de Nascimento: 14/4/2003
+Residência: 769-F
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 16/1/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 31%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Santos
+CPF: 281.248.064-83
+Data de Nascimento: 23/8/2004
+Residência: 898-M
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 27/1/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 2%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Alexandre Moura
+CPF: 101.105.442-56
+Data de Nascimento: 28/4/1981
+Residência: 279-J
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 22/12/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Eduardo Miranda
+CPF: 864.908.138-20
+Data de Nascimento: 24/9/1977
+Residência: 184-T
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 15/11/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Araujo
+CPF: 962.895.235-32
+Data de Nascimento: 7/4/1979
+Residência: 832-R
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 5/7/2024
+
+Quantidade de convidados: 23
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Moreira
+CPF: 548.717.928-18
+Data de Nascimento: 12/4/1979
+Residência: 983-C
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 23/11/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 54%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Andrade
+CPF: 136.746.085-47
+Data de Nascimento: 19/6/1981
+Residência: 848-P
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 6/3/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 77%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Pereira
+CPF: 316.525.619-28
+Data de Nascimento: 24/9/1971
+Residência: 632-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 17/7/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 33%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Tavares
+CPF: 192.096.412-96
+Data de Nascimento: 8/9/1972
+Residência: 980-G
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 8/7/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vitor Barros
+CPF: 832.874.325-92
+Data de Nascimento: 21/4/1999
+Residência: 613-J
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 20/10/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Melo
+CPF: 207.745.770-14
+Data de Nascimento: 12/6/1999
+Residência: 488-R
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 3/4/2024
+
+Quantidade de convidados: 26
+Taxa de ocupação: 56%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Vieira
+CPF: 127.096.683-72
+Data de Nascimento: 9/5/2001
+Residência: 293-T
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 13/7/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 71%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Costa
+CPF: 590.782.082-25
+Data de Nascimento: 18/10/1997
+Residência: 212-M
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 25/9/2024
+
+Quantidade de convidados: 44
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Moura
+CPF: 514.089.737-50
+Data de Nascimento: 25/3/1989
+Residência: 534-P
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 7/5/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Neves
+CPF: 688.870.751-35
+Data de Nascimento: 4/7/1986
+Residência: 513-T
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 28/9/2024
+
+Quantidade de convidados: 36
+Taxa de ocupação: 78%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Ricardo Miranda
+CPF: 950.261.400-14
+Data de Nascimento: 10/7/1978
+Residência: 696-O
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 9/7/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leticia Coelho
+CPF: 208.877.466-51
+Data de Nascimento: 24/3/1986
+Residência: 697-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 17/2/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 6%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Silva
+CPF: 472.348.043-92
+Data de Nascimento: 1/12/1973
+Residência: 271-A
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 10/8/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Cunha
+CPF: 759.680.961-33
+Data de Nascimento: 1/6/1977
+Residência: 641-O
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 11/11/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 45%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Helena Freitas
+CPF: 369.030.644-88
+Data de Nascimento: 5/7/1986
+Residência: 158-S
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 12/10/2024
+
+Quantidade de convidados: 43
+Taxa de ocupação: 93%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gabriela Ribeiro
+CPF: 272.754.294-18
+Data de Nascimento: 16/1/1981
+Residência: 525-E
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 4/12/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 42%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Alexandre Santos
+CPF: 764.693.709-88
+Data de Nascimento: 6/2/1992
+Residência: 775-H
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 16/8/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruno Campos
+CPF: 234.495.226-77
+Data de Nascimento: 9/7/1989
+Residência: 924-D
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 5/5/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 42%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruno Moura
+CPF: 432.656.450-15
+Data de Nascimento: 12/10/2003
+Residência: 498-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 28/12/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 30%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Rezende
+CPF: 491.877.650-47
+Data de Nascimento: 6/5/1978
+Residência: 011-J
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 9/12/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 2%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Ana Araujo
+CPF: 319.186.798-85
+Data de Nascimento: 19/12/2005
+Residência: 070-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 14/10/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Eduardo Miranda
+CPF: 864.908.138-20
+Data de Nascimento: 24/9/1977
+Residência: 184-T
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 15/5/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 57%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Beatriz Freitas
+CPF: 369.222.808-20
+Data de Nascimento: 11/3/1993
+Residência: 896-P
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 27/8/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 68%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Beatriz Silva
+CPF: 023.260.302-11
+Data de Nascimento: 13/11/1986
+Residência: 471-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 20/3/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 32%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Beatriz Miranda
+CPF: 454.965.541-99
+Data de Nascimento: 20/2/1986
+Residência: 914-E
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 18/5/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 41%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Costa
+CPF: 661.616.828-77
+Data de Nascimento: 16/10/1970
+Residência: 625-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 17/11/2024
+
+Quantidade de convidados: 43
+Taxa de ocupação: 93%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Dias
+CPF: 447.185.493-61
+Data de Nascimento: 15/4/1994
+Residência: 618-Q
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 8/5/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: André Monteiro
+CPF: 803.704.123-25
+Data de Nascimento: 4/6/1970
+Residência: 295-I
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 12/4/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 61%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Borges
+CPF: 509.674.962-63
+Data de Nascimento: 19/6/1991
+Residência: 869-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 26/12/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 45%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Campos
+CPF: 533.139.702-94
+Data de Nascimento: 26/3/2005
+Residência: 800-E
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 17/9/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 9%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: André Azevedo
+CPF: 595.259.080-74
+Data de Nascimento: 2/4/2005
+Residência: 976-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 4/11/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 10%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Carolina Duarte
+CPF: 157.306.342-03
+Data de Nascimento: 27/2/1985
+Residência: 891-E
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 2/3/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 68%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Pinheiro
+CPF: 068.300.816-82
+Data de Nascimento: 18/10/1977
+Residência: 315-W
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 24/9/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Nunes
+CPF: 191.916.477-42
+Data de Nascimento: 14/12/2004
+Residência: 497-L
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 18/4/2024
+
+Quantidade de convidados: 22
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sara Rocha
+CPF: 661.273.267-28
+Data de Nascimento: 28/4/1984
+Residência: 430-T
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 10/6/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 68%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Pereira
+CPF: 533.491.214-63
+Data de Nascimento: 22/2/1981
+Residência: 974-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 24/12/2024
+
+Quantidade de convidados: 33
+Taxa de ocupação: 71%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Tavares
+CPF: 586.578.249-46
+Data de Nascimento: 4/10/1981
+Residência: 010-K
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 13/1/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 59%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafael Araujo
+CPF: 477.429.738-58
+Data de Nascimento: 13/5/1989
+Residência: 854-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 15/5/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 30%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Mendes
+CPF: 961.975.101-01
+Data de Nascimento: 9/10/1988
+Residência: 936-Q
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 18/1/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Ricardo Miranda
+CPF: 950.261.400-14
+Data de Nascimento: 10/7/1978
+Residência: 696-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 14/9/2024
+
+Quantidade de convidados: 23
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Coelho
+CPF: 318.712.279-96
+Data de Nascimento: 15/9/1970
+Residência: 137-V
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 13/5/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Ramos
+CPF: 343.050.419-78
+Data de Nascimento: 5/11/1995
+Residência: 334-P
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 11/3/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 43%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Neves
+CPF: 958.451.440-82
+Data de Nascimento: 26/7/1995
+Residência: 491-N
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 3/9/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Matheus Rezende
+CPF: 665.377.689-24
+Data de Nascimento: 9/8/1979
+Residência: 885-X
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 2/5/2024
+
+Quantidade de convidados: 28
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Oliveira
+CPF: 031.547.191-34
+Data de Nascimento: 7/7/2004
+Residência: 466-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 22/11/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 2%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Camila Santos
+CPF: 030.108.187-30
+Data de Nascimento: 16/2/1988
+Residência: 082-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 3/6/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 19%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rodrigo Figueiredo
+CPF: 774.168.883-11
+Data de Nascimento: 6/12/1982
+Residência: 949-A
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 21/1/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 57%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Ana Araujo
+CPF: 319.186.798-85
+Data de Nascimento: 19/12/2005
+Residência: 070-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 18/6/2024
+
+Quantidade de convidados: 46
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Almeida
+CPF: 047.994.913-80
+Data de Nascimento: 10/5/1985
+Residência: 314-U
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 3/8/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Carolina Duarte
+CPF: 157.306.342-03
+Data de Nascimento: 27/2/1985
+Residência: 891-E
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 11/2/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 33%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sofia Ribeiro
+CPF: 106.125.851-84
+Data de Nascimento: 16/8/1995
+Residência: 154-C
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 17/4/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernanda Oliveira
+CPF: 046.021.428-22
+Data de Nascimento: 10/10/1983
+Residência: 926-X
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 19/8/2024
+
+Quantidade de convidados: 31
+Taxa de ocupação: 67%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Neves
+CPF: 958.451.440-82
+Data de Nascimento: 26/7/1995
+Residência: 491-N
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 10/7/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 72%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sara Sampaio
+CPF: 479.368.645-68
+Data de Nascimento: 20/6/2000
+Residência: 597-H
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 13/3/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 38%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Ricardo Tavares
+CPF: 947.612.554-26
+Data de Nascimento: 15/12/1974
+Residência: 720-A
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 15/4/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Duarte
+CPF: 773.920.555-65
+Data de Nascimento: 4/6/1996
+Residência: 141-N
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 7/12/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 2%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Beatriz Vieira
+CPF: 532.034.900-41
+Data de Nascimento: 27/1/1989
+Residência: 421-I
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 21/7/2024
+
+Quantidade de convidados: 34
+Taxa de ocupação: 73%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sara Costa
+CPF: 767.048.901-09
+Data de Nascimento: 27/6/1983
+Residência: 517-U
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 3/8/2024
+
+Quantidade de convidados: 18
+Taxa de ocupação: 81%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Moura
+CPF: 514.089.737-50
+Data de Nascimento: 25/3/1989
+Residência: 534-P
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 1/11/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 18%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Vieira
+CPF: 127.096.683-72
+Data de Nascimento: 9/5/2001
+Residência: 293-T
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 16/1/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 66%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Santos
+CPF: 520.764.448-62
+Data de Nascimento: 15/4/1970
+Residência: 758-D
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 5/7/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 52%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Batista
+CPF: 193.540.369-57
+Data de Nascimento: 22/11/1977
+Residência: 621-O
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 1/10/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 9%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Vieira
+CPF: 298.121.580-86
+Data de Nascimento: 12/6/1979
+Residência: 275-D
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 10/11/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 19%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Ana Araujo
+CPF: 319.186.798-85
+Data de Nascimento: 19/12/2005
+Residência: 070-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 10/1/2024
+
+Quantidade de convidados: 42
+Taxa de ocupação: 91%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leticia Coelho
+CPF: 208.877.466-51
+Data de Nascimento: 24/3/1986
+Residência: 697-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 19/3/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Monteiro
+CPF: 642.759.928-48
+Data de Nascimento: 18/8/1980
+Residência: 010-K
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 15/3/2024
+
+Quantidade de convidados: 41
+Taxa de ocupação: 89%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Larissa Moura
+CPF: 387.277.095-24
+Data de Nascimento: 20/10/1981
+Residência: 370-L
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 22/5/2024
+
+Quantidade de convidados: 18
+Taxa de ocupação: 81%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafael Araujo
+CPF: 477.429.738-58
+Data de Nascimento: 13/5/1989
+Residência: 854-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 4/7/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 30%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafaela Macedo
+CPF: 427.985.541-76
+Data de Nascimento: 21/4/1973
+Residência: 250-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 11/4/2024
+
+Quantidade de convidados: 46
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernanda Souza
+CPF: 713.724.623-77
+Data de Nascimento: 20/10/1993
+Residência: 495-V
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 16/5/2024
+
+Quantidade de convidados: 27
+Taxa de ocupação: 58%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vitor Moura
+CPF: 150.796.173-80
+Data de Nascimento: 6/12/1992
+Residência: 734-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 22/12/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 26%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Oliveira
+CPF: 031.547.191-34
+Data de Nascimento: 7/7/2004
+Residência: 466-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 19/6/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 6%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernanda Oliveira
+CPF: 046.021.428-22
+Data de Nascimento: 10/10/1983
+Residência: 926-X
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 26/8/2024
+
+Quantidade de convidados: 39
+Taxa de ocupação: 84%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Azevedo
+CPF: 482.207.433-56
+Data de Nascimento: 22/4/1982
+Residência: 922-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 17/10/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 45%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafael Guimaraes
+CPF: 763.609.541-34
+Data de Nascimento: 15/4/1977
+Residência: 253-W
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 9/1/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 22%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Campos
+CPF: 533.139.702-94
+Data de Nascimento: 26/3/2005
+Residência: 800-E
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 6/8/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Andrade
+CPF: 141.813.351-57
+Data de Nascimento: 10/11/1981
+Residência: 332-O
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 14/2/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Borges
+CPF: 509.674.962-63
+Data de Nascimento: 19/6/1991
+Residência: 869-U
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 8/6/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Tavares
+CPF: 586.578.249-46
+Data de Nascimento: 4/10/1981
+Residência: 010-K
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 22/10/2024
+
+Quantidade de convidados: 24
+Taxa de ocupação: 52%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Ribeiro
+CPF: 994.270.847-65
+Data de Nascimento: 23/7/1985
+Residência: 331-R
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 15/7/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 19%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernanda Campos
+CPF: 031.051.688-86
+Data de Nascimento: 24/1/1977
+Residência: 205-T
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 10/8/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 33%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Aline Figueiredo
+CPF: 634.910.549-10
+Data de Nascimento: 20/5/1994
+Residência: 328-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 27/4/2024
+
+Quantidade de convidados: 46
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Maria Vieira
+CPF: 863.925.054-54
+Data de Nascimento: 17/4/2000
+Residência: 381-D
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 25/8/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 72%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Matheus Barros
+CPF: 753.151.624-98
+Data de Nascimento: 22/12/1975
+Residência: 191-T
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 2/4/2024
+
+Quantidade de convidados: 26
+Taxa de ocupação: 56%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Mendes
+CPF: 961.975.101-01
+Data de Nascimento: 9/10/1988
+Residência: 936-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 18/8/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Silva
+CPF: 950.418.240-05
+Data de Nascimento: 28/11/1992
+Residência: 402-S
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 11/2/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 63%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Silva
+CPF: 942.403.605-32
+Data de Nascimento: 22/2/1970
+Residência: 506-X
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 10/12/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Beatriz Vieira
+CPF: 532.034.900-41
+Data de Nascimento: 27/1/1989
+Residência: 421-I
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 21/6/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 18%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Julia Ramos
+CPF: 320.614.978-03
+Data de Nascimento: 15/5/1976
+Residência: 259-O
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 8/12/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 36%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafael Araujo
+CPF: 477.429.738-58
+Data de Nascimento: 13/5/1989
+Residência: 854-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 24/10/2024
+
+Quantidade de convidados: 27
+Taxa de ocupação: 58%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rodrigo Santos
+CPF: 303.582.653-08
+Data de Nascimento: 9/7/1981
+Residência: 858-D
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 11/2/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 32%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Tavares
+CPF: 586.578.249-46
+Data de Nascimento: 4/10/1981
+Residência: 010-K
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 24/11/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Silva
+CPF: 472.348.043-92
+Data de Nascimento: 1/12/1973
+Residência: 271-A
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 8/7/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Amanda Fernandes
+CPF: 035.602.760-00
+Data de Nascimento: 25/6/1985
+Residência: 448-S
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 28/2/2024
+
+Quantidade de convidados: 29
+Taxa de ocupação: 63%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Beatriz Freitas
+CPF: 369.222.808-20
+Data de Nascimento: 11/3/1993
+Residência: 896-P
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 10/5/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Tavares
+CPF: 192.096.412-96
+Data de Nascimento: 8/9/1972
+Residência: 980-G
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 23/6/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Aline Lima
+CPF: 357.063.932-17
+Data de Nascimento: 21/12/2004
+Residência: 366-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 12/2/2024
+
+Quantidade de convidados: 42
+Taxa de ocupação: 91%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Santos
+CPF: 520.764.448-62
+Data de Nascimento: 15/4/1970
+Residência: 758-D
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 4/1/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 86%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruno Moura
+CPF: 432.656.450-15
+Data de Nascimento: 12/10/2003
+Residência: 498-U
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 3/1/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 72%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leonardo Dias
+CPF: 327.252.278-96
+Data de Nascimento: 2/4/1973
+Residência: 894-K
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 20/9/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vitor Moura
+CPF: 150.796.173-80
+Data de Nascimento: 6/12/1992
+Residência: 734-Y
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 21/5/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Silva
+CPF: 472.348.043-92
+Data de Nascimento: 1/12/1973
+Residência: 271-A
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 20/11/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 61%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Ribeiro
+CPF: 994.270.847-65
+Data de Nascimento: 23/7/1985
+Residência: 331-R
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 4/3/2024
+
+Quantidade de convidados: 34
+Taxa de ocupação: 73%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Azevedo
+CPF: 475.519.652-73
+Data de Nascimento: 25/11/1978
+Residência: 496-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 10/5/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 14%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Pereira
+CPF: 533.491.214-63
+Data de Nascimento: 22/2/1981
+Residência: 974-H
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 22/7/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 57%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Pereira
+CPF: 533.491.214-63
+Data de Nascimento: 22/2/1981
+Residência: 974-H
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 28/9/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rodrigo Santos
+CPF: 303.582.653-08
+Data de Nascimento: 9/7/1981
+Residência: 858-D
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 11/1/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Ramos
+CPF: 410.866.634-07
+Data de Nascimento: 21/10/1971
+Residência: 993-V
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 23/9/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 86%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernanda Souza
+CPF: 713.724.623-77
+Data de Nascimento: 20/10/1993
+Residência: 495-V
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 19/3/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafaela Cunha
+CPF: 128.001.705-69
+Data de Nascimento: 27/7/1983
+Residência: 766-J
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 7/9/2024
+
+Quantidade de convidados: 45
+Taxa de ocupação: 97%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Teixeira
+CPF: 843.106.851-21
+Data de Nascimento: 21/5/1973
+Residência: 777-M
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 2/2/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Clara Cunha
+CPF: 000.394.387-70
+Data de Nascimento: 3/11/2002
+Residência: 496-D
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 26/5/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Larissa Coelho
+CPF: 947.780.984-73
+Data de Nascimento: 23/11/2004
+Residência: 267-N
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 17/3/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Oliveira
+CPF: 538.372.149-17
+Data de Nascimento: 13/11/1988
+Residência: 381-R
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 20/6/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 10%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Roberto Vieira
+CPF: 895.274.403-35
+Data de Nascimento: 18/7/2005
+Residência: 160-J
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 25/10/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Pedro Souza
+CPF: 857.520.806-62
+Data de Nascimento: 7/10/1975
+Residência: 827-J
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 4/4/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Neves
+CPF: 958.451.440-82
+Data de Nascimento: 26/7/1995
+Residência: 491-N
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 3/12/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 86%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Vieira
+CPF: 595.755.113-83
+Data de Nascimento: 21/11/1978
+Residência: 364-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 12/8/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: André Oliveira
+CPF: 775.907.334-20
+Data de Nascimento: 13/2/1983
+Residência: 515-D
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 6/12/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 63%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Helena Andrade
+CPF: 528.907.763-42
+Data de Nascimento: 24/5/1991
+Residência: 644-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 11/10/2024
+
+Quantidade de convidados: 34
+Taxa de ocupação: 73%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafael Guimaraes
+CPF: 763.609.541-34
+Data de Nascimento: 15/4/1977
+Residência: 253-W
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 19/3/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sara Sampaio
+CPF: 479.368.645-68
+Data de Nascimento: 20/6/2000
+Residência: 597-H
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 25/12/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 71%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Amanda Fernandes
+CPF: 035.602.760-00
+Data de Nascimento: 25/6/1985
+Residência: 448-S
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 2/5/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Santos
+CPF: 281.248.064-83
+Data de Nascimento: 23/8/2004
+Residência: 898-M
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 21/10/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Helena Freitas
+CPF: 369.030.644-88
+Data de Nascimento: 5/7/1986
+Residência: 158-S
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 21/7/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Costa
+CPF: 590.782.082-25
+Data de Nascimento: 18/10/1997
+Residência: 212-M
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 28/2/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Tavares
+CPF: 586.578.249-46
+Data de Nascimento: 4/10/1981
+Residência: 010-K
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 26/8/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Sampaio
+CPF: 868.634.915-43
+Data de Nascimento: 7/3/2000
+Residência: 578-I
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 13/2/2024
+
+Quantidade de convidados: 22
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Neves
+CPF: 688.870.751-35
+Data de Nascimento: 4/7/1986
+Residência: 513-T
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 19/7/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 33%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Andrade
+CPF: 141.813.351-57
+Data de Nascimento: 10/11/1981
+Residência: 332-O
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 6/11/2024
+
+Quantidade de convidados: 22
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: André Andrade
+CPF: 498.303.377-10
+Data de Nascimento: 10/3/1994
+Residência: 111-H
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 10/9/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Alice Cunha
+CPF: 976.158.976-78
+Data de Nascimento: 5/2/1994
+Residência: 782-J
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 27/1/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Camila Cunha
+CPF: 918.549.098-91
+Data de Nascimento: 8/12/1994
+Residência: 720-N
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 6/10/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Dias
+CPF: 337.522.192-19
+Data de Nascimento: 24/1/2006
+Residência: 800-B
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 14/12/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Amanda Cardoso
+CPF: 687.768.910-79
+Data de Nascimento: 26/8/1991
+Residência: 753-G
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 23/8/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Alexandre Cunha
+CPF: 732.222.222-93
+Data de Nascimento: 9/1/1999
+Residência: 254-J
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 11/4/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Carlos Macedo
+CPF: 833.408.428-20
+Data de Nascimento: 22/10/1994
+Residência: 956-C
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 9/4/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Duarte
+CPF: 240.490.861-47
+Data de Nascimento: 11/4/2001
+Residência: 947-F
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 21/6/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 57%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Matheus Rezende
+CPF: 665.377.689-24
+Data de Nascimento: 9/8/1979
+Residência: 885-X
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 19/5/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 20%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rodrigo Figueiredo
+CPF: 774.168.883-11
+Data de Nascimento: 6/12/1982
+Residência: 949-A
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 21/4/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 15%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Matheus Fernandes
+CPF: 898.937.397-59
+Data de Nascimento: 20/3/1996
+Residência: 126-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 20/11/2024
+
+Quantidade de convidados: 33
+Taxa de ocupação: 71%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Andrade
+CPF: 141.813.351-57
+Data de Nascimento: 10/11/1981
+Residência: 332-O
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 20/10/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Clara Souza
+CPF: 304.012.161-93
+Data de Nascimento: 18/1/2002
+Residência: 391-W
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 9/8/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 32%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Pinheiro
+CPF: 068.300.816-82
+Data de Nascimento: 18/10/1977
+Residência: 315-W
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 18/7/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sara Mendes
+CPF: 901.939.549-88
+Data de Nascimento: 10/10/1991
+Residência: 122-U
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 12/5/2024
+
+Quantidade de convidados: 22
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Clara Souza
+CPF: 304.012.161-93
+Data de Nascimento: 18/1/2002
+Residência: 391-W
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 16/3/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 20%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Alexandre Moura
+CPF: 101.105.442-56
+Data de Nascimento: 28/4/1981
+Residência: 279-J
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 16/11/2024
+
+Quantidade de convidados: 30
+Taxa de ocupação: 65%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Ribeiro
+CPF: 397.205.427-39
+Data de Nascimento: 11/6/1970
+Residência: 142-D
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 8/7/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Batista
+CPF: 193.540.369-57
+Data de Nascimento: 22/11/1977
+Residência: 621-O
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 5/4/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sara Mendes
+CPF: 901.939.549-88
+Data de Nascimento: 10/10/1991
+Residência: 122-U
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 6/5/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 86%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Azevedo
+CPF: 475.519.652-73
+Data de Nascimento: 25/11/1978
+Residência: 496-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 24/3/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Vieira
+CPF: 298.121.580-86
+Data de Nascimento: 12/6/1979
+Residência: 275-D
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 21/8/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 22%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Matheus Rezende
+CPF: 665.377.689-24
+Data de Nascimento: 9/8/1979
+Residência: 885-X
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 11/1/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Melo
+CPF: 207.745.770-14
+Data de Nascimento: 12/6/1999
+Residência: 488-R
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 18/12/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sofia Ribeiro
+CPF: 106.125.851-84
+Data de Nascimento: 16/8/1995
+Residência: 154-C
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 26/8/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 63%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Souza
+CPF: 564.575.221-83
+Data de Nascimento: 18/7/1981
+Residência: 581-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 19/10/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Matheus Fernandes
+CPF: 898.937.397-59
+Data de Nascimento: 20/3/1996
+Residência: 126-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 21/3/2024
+
+Quantidade de convidados: 18
+Taxa de ocupação: 39%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Sampaio
+CPF: 227.150.476-99
+Data de Nascimento: 5/8/1989
+Residência: 793-B
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 8/4/2024
+
+Quantidade de convidados: 32
+Taxa de ocupação: 69%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Melo
+CPF: 207.745.770-14
+Data de Nascimento: 12/6/1999
+Residência: 488-R
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 1/1/2024
+
+Quantidade de convidados: 18
+Taxa de ocupação: 39%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Amanda Cardoso
+CPF: 687.768.910-79
+Data de Nascimento: 26/8/1991
+Residência: 753-G
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 28/8/2024
+
+Quantidade de convidados: 22
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Silva
+CPF: 942.403.605-32
+Data de Nascimento: 22/2/1970
+Residência: 506-X
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 5/9/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Macedo
+CPF: 196.507.385-70
+Data de Nascimento: 17/5/1978
+Residência: 492-U
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 3/5/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sara Costa
+CPF: 767.048.901-09
+Data de Nascimento: 27/6/1983
+Residência: 517-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 4/4/2024
+
+Quantidade de convidados: 27
+Taxa de ocupação: 58%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Beatriz Silva
+CPF: 023.260.302-11
+Data de Nascimento: 13/11/1986
+Residência: 471-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 16/1/2024
+
+Quantidade de convidados: 33
+Taxa de ocupação: 71%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Dias
+CPF: 818.713.842-12
+Data de Nascimento: 26/8/1983
+Residência: 822-O
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 21/2/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Roberto Miranda
+CPF: 253.553.281-70
+Data de Nascimento: 1/7/1985
+Residência: 778-W
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 20/7/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 9%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Maria Almeida
+CPF: 045.430.948-04
+Data de Nascimento: 15/2/1974
+Residência: 218-M
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 12/3/2024
+
+Quantidade de convidados: 42
+Taxa de ocupação: 91%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Figueiredo
+CPF: 225.509.702-26
+Data de Nascimento: 3/10/1992
+Residência: 237-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 20/7/2024
+
+Quantidade de convidados: 37
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Beatriz Freitas
+CPF: 369.222.808-20
+Data de Nascimento: 11/3/1993
+Residência: 896-P
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 8/9/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Ramos
+CPF: 343.050.419-78
+Data de Nascimento: 5/11/1995
+Residência: 334-P
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 6/12/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 17%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Carolina Duarte
+CPF: 157.306.342-03
+Data de Nascimento: 27/2/1985
+Residência: 891-E
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 26/12/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 61%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Vieira
+CPF: 595.755.113-83
+Data de Nascimento: 21/11/1978
+Residência: 364-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 15/10/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Pedro Santos
+CPF: 062.930.397-79
+Data de Nascimento: 15/9/1976
+Residência: 153-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 3/11/2024
+
+Quantidade de convidados: 46
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leticia Coelho
+CPF: 208.877.466-51
+Data de Nascimento: 24/3/1986
+Residência: 697-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 12/5/2024
+
+Quantidade de convidados: 35
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Macedo
+CPF: 196.507.385-70
+Data de Nascimento: 17/5/1978
+Residência: 492-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 20/4/2024
+
+Quantidade de convidados: 23
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Nunes
+CPF: 191.916.477-42
+Data de Nascimento: 14/12/2004
+Residência: 497-L
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 8/9/2024
+
+Quantidade de convidados: 32
+Taxa de ocupação: 69%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Freitas
+CPF: 590.032.448-02
+Data de Nascimento: 20/5/2005
+Residência: 682-A
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 13/12/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 19%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Silva
+CPF: 472.348.043-92
+Data de Nascimento: 1/12/1973
+Residência: 271-A
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 5/9/2024
+
+Quantidade de convidados: 46
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcelo Silveira
+CPF: 092.531.491-30
+Data de Nascimento: 2/11/1981
+Residência: 203-S
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 27/2/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 42%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Sampaio
+CPF: 916.224.515-48
+Data de Nascimento: 3/4/1976
+Residência: 919-P
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 25/8/2024
+
+Quantidade de convidados: 40
+Taxa de ocupação: 86%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Clara Souza
+CPF: 304.012.161-93
+Data de Nascimento: 18/1/2002
+Residência: 391-W
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 13/9/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 72%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Andrade
+CPF: 141.813.351-57
+Data de Nascimento: 10/11/1981
+Residência: 332-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 3/10/2024
+
+Quantidade de convidados: 34
+Taxa de ocupação: 73%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Maria Almeida
+CPF: 045.430.948-04
+Data de Nascimento: 15/2/1974
+Residência: 218-M
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 19/11/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 21%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Pedro Santos
+CPF: 062.930.397-79
+Data de Nascimento: 15/9/1976
+Residência: 153-Q
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 4/3/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 86%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: André Andrade
+CPF: 498.303.377-10
+Data de Nascimento: 10/3/1994
+Residência: 111-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 26/9/2024
+
+Quantidade de convidados: 24
+Taxa de ocupação: 52%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Figueiredo
+CPF: 225.509.702-26
+Data de Nascimento: 3/10/1992
+Residência: 237-O
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 9/6/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 36%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: André Andrade
+CPF: 498.303.377-10
+Data de Nascimento: 10/3/1994
+Residência: 111-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 12/7/2024
+
+Quantidade de convidados: 44
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rodrigo Figueiredo
+CPF: 774.168.883-11
+Data de Nascimento: 6/12/1982
+Residência: 949-A
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 4/1/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 10%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Souza
+CPF: 564.575.221-83
+Data de Nascimento: 18/7/1981
+Residência: 581-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 25/5/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 26%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: André Andrade
+CPF: 498.303.377-10
+Data de Nascimento: 10/3/1994
+Residência: 111-H
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 1/7/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 45%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Ramos
+CPF: 343.050.419-78
+Data de Nascimento: 5/11/1995
+Residência: 334-P
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 4/9/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 36%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Helena Ribeiro
+CPF: 184.629.516-07
+Data de Nascimento: 24/8/1975
+Residência: 944-S
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 8/6/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vitor Barros
+CPF: 832.874.325-92
+Data de Nascimento: 21/4/1999
+Residência: 613-J
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 3/2/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Monteiro
+CPF: 642.759.928-48
+Data de Nascimento: 18/8/1980
+Residência: 010-K
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 12/12/2024
+
+Quantidade de convidados: 35
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafaela Cunha
+CPF: 128.001.705-69
+Data de Nascimento: 27/7/1983
+Residência: 766-J
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 4/11/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Coelho
+CPF: 489.640.193-97
+Data de Nascimento: 26/12/1984
+Residência: 527-L
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 24/8/2024
+
+Quantidade de convidados: 45
+Taxa de ocupação: 97%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Matheus Fernandes
+CPF: 898.937.397-59
+Data de Nascimento: 20/3/1996
+Residência: 126-H
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 14/3/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 86%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Larissa Almeida
+CPF: 438.165.893-16
+Data de Nascimento: 28/9/1990
+Residência: 654-P
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 6/5/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 14%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Costa
+CPF: 158.325.952-48
+Data de Nascimento: 10/5/1982
+Residência: 694-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 13/8/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 6%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Camila Cunha
+CPF: 918.549.098-91
+Data de Nascimento: 8/12/1994
+Residência: 720-N
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 5/8/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 27%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Oliveira
+CPF: 538.372.149-17
+Data de Nascimento: 13/11/1988
+Residência: 381-R
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 4/2/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 45%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Eduardo Barbosa
+CPF: 150.647.674-45
+Data de Nascimento: 14/4/2003
+Residência: 769-F
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 5/12/2024
+
+Quantidade de convidados: 18
+Taxa de ocupação: 81%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruno Campos
+CPF: 234.495.226-77
+Data de Nascimento: 9/7/1989
+Residência: 924-D
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 9/12/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 27%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Nunes
+CPF: 215.655.340-32
+Data de Nascimento: 25/1/1974
+Residência: 347-K
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 7/6/2024
+
+Quantidade de convidados: 43
+Taxa de ocupação: 93%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Nunes
+CPF: 215.655.340-32
+Data de Nascimento: 25/1/1974
+Residência: 347-K
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 18/5/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Carlos Macedo
+CPF: 833.408.428-20
+Data de Nascimento: 22/10/1994
+Residência: 956-C
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 7/9/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Silva
+CPF: 942.403.605-32
+Data de Nascimento: 22/2/1970
+Residência: 506-X
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 23/1/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 33%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Borges
+CPF: 509.674.962-63
+Data de Nascimento: 19/6/1991
+Residência: 869-U
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 23/12/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 33%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Batista
+CPF: 454.878.417-96
+Data de Nascimento: 27/12/1992
+Residência: 363-N
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 25/6/2024
+
+Quantidade de convidados: 35
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Borges
+CPF: 509.674.962-63
+Data de Nascimento: 19/6/1991
+Residência: 869-U
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 16/7/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Figueiredo
+CPF: 830.977.879-05
+Data de Nascimento: 15/2/1983
+Residência: 551-N
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 6/4/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Camila Pinheiro
+CPF: 780.622.436-13
+Data de Nascimento: 14/7/1975
+Residência: 580-M
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 17/1/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Julia Ramos
+CPF: 320.614.978-03
+Data de Nascimento: 15/5/1976
+Residência: 259-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 16/6/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 34%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Helena Andrade
+CPF: 528.907.763-42
+Data de Nascimento: 24/5/1991
+Residência: 644-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 7/4/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 2%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Macedo
+CPF: 196.507.385-70
+Data de Nascimento: 17/5/1978
+Residência: 492-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 17/3/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 26%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Carlos Nunes
+CPF: 687.027.164-76
+Data de Nascimento: 9/12/1993
+Residência: 057-A
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 4/8/2024
+
+Quantidade de convidados: 32
+Taxa de ocupação: 69%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafael Martins
+CPF: 815.819.565-89
+Data de Nascimento: 27/8/1988
+Residência: 071-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 27/12/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 42%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafael Guimaraes
+CPF: 763.609.541-34
+Data de Nascimento: 15/4/1977
+Residência: 253-W
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 14/11/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Ricardo Tavares
+CPF: 947.612.554-26
+Data de Nascimento: 15/12/1974
+Residência: 720-A
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 18/6/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 42%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Camila Santos
+CPF: 030.108.187-30
+Data de Nascimento: 16/2/1988
+Residência: 082-Q
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 9/2/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 27%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Julia Ramos
+CPF: 320.614.978-03
+Data de Nascimento: 15/5/1976
+Residência: 259-O
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 17/3/2024
+
+Quantidade de convidados: 22
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Dias
+CPF: 818.713.842-12
+Data de Nascimento: 26/8/1983
+Residência: 822-O
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 8/5/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rodrigo Figueiredo
+CPF: 774.168.883-11
+Data de Nascimento: 6/12/1982
+Residência: 949-A
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 13/9/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 19%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Eduardo Miranda
+CPF: 864.908.138-20
+Data de Nascimento: 24/9/1977
+Residência: 184-T
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 10/2/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 43%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Melo
+CPF: 207.745.770-14
+Data de Nascimento: 12/6/1999
+Residência: 488-R
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 8/5/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 10%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sara Costa
+CPF: 767.048.901-09
+Data de Nascimento: 27/6/1983
+Residência: 517-U
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 28/3/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 72%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sara Cavalcante
+CPF: 422.675.328-61
+Data de Nascimento: 18/9/2000
+Residência: 750-F
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 6/10/2024
+
+Quantidade de convidados: 26
+Taxa de ocupação: 56%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Ramos
+CPF: 343.050.419-78
+Data de Nascimento: 5/11/1995
+Residência: 334-P
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 21/8/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 19%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Almeida
+CPF: 047.994.913-80
+Data de Nascimento: 10/5/1985
+Residência: 314-U
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 24/5/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 27%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Rezende
+CPF: 057.423.355-10
+Data de Nascimento: 2/10/2005
+Residência: 464-I
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 16/7/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Freitas
+CPF: 567.065.870-41
+Data de Nascimento: 26/4/1991
+Residência: 976-J
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 25/9/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 38%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Aline Lima
+CPF: 357.063.932-17
+Data de Nascimento: 21/12/2004
+Residência: 366-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 19/9/2024
+
+Quantidade de convidados: 38
+Taxa de ocupação: 82%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: André Azevedo
+CPF: 595.259.080-74
+Data de Nascimento: 2/4/2005
+Residência: 976-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 4/2/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruno Campos
+CPF: 234.495.226-77
+Data de Nascimento: 9/7/1989
+Residência: 924-D
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 2/9/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Matheus Mendes
+CPF: 725.373.142-70
+Data de Nascimento: 5/9/1981
+Residência: 387-Z
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 2/7/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 9%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Camila Santos
+CPF: 030.108.187-30
+Data de Nascimento: 16/2/1988
+Residência: 082-Q
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 12/2/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Amanda Fernandes
+CPF: 035.602.760-00
+Data de Nascimento: 25/6/1985
+Residência: 448-S
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 25/1/2024
+
+Quantidade de convidados: 13
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Ricardo Gomes
+CPF: 829.175.671-31
+Data de Nascimento: 7/7/1985
+Residência: 248-B
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 2/7/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 66%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Helena Andrade
+CPF: 528.907.763-42
+Data de Nascimento: 24/5/1991
+Residência: 644-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 22/4/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 34%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Amanda Fernandes
+CPF: 035.602.760-00
+Data de Nascimento: 25/6/1985
+Residência: 448-S
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 27/3/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sara Cavalcante
+CPF: 422.675.328-61
+Data de Nascimento: 18/9/2000
+Residência: 750-F
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 11/7/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Silva
+CPF: 950.418.240-05
+Data de Nascimento: 28/11/1992
+Residência: 402-S
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 7/4/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leonardo Fernandes
+CPF: 780.813.196-44
+Data de Nascimento: 3/11/1994
+Residência: 264-A
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 3/12/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Alexandre Cunha
+CPF: 732.222.222-93
+Data de Nascimento: 9/1/1999
+Residência: 254-J
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 12/9/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Ana Freitas
+CPF: 161.878.222-41
+Data de Nascimento: 15/7/1971
+Residência: 387-Y
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 28/7/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Amanda Rezende
+CPF: 362.711.209-26
+Data de Nascimento: 6/8/1972
+Residência: 894-B
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 22/7/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 32%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Luiza Guimaraes
+CPF: 789.122.795-43
+Data de Nascimento: 11/10/1977
+Residência: 839-I
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 5/5/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 36%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vitor Moura
+CPF: 150.796.173-80
+Data de Nascimento: 6/12/1992
+Residência: 734-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 18/11/2024
+
+Quantidade de convidados: 30
+Taxa de ocupação: 65%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Sara Rocha
+CPF: 661.273.267-28
+Data de Nascimento: 28/4/1984
+Residência: 430-T
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 12/10/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 18%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Macedo
+CPF: 196.507.385-70
+Data de Nascimento: 17/5/1978
+Residência: 492-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 14/12/2024
+
+Quantidade de convidados: 41
+Taxa de ocupação: 89%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Pereira
+CPF: 316.525.619-28
+Data de Nascimento: 24/9/1971
+Residência: 632-Y
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 14/4/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rodrigo Figueiredo
+CPF: 774.168.883-11
+Data de Nascimento: 6/12/1982
+Residência: 949-A
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 5/3/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 68%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Moreira
+CPF: 548.717.928-18
+Data de Nascimento: 12/4/1979
+Residência: 983-C
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 6/7/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Rezende
+CPF: 491.877.650-47
+Data de Nascimento: 6/5/1978
+Residência: 011-J
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 5/10/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 36%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Mendes
+CPF: 961.975.101-01
+Data de Nascimento: 9/10/1988
+Residência: 936-Q
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 8/3/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leticia Carvalho
+CPF: 019.714.344-06
+Data de Nascimento: 14/11/1999
+Residência: 576-C
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 16/2/2024
+
+Quantidade de convidados: 23
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leticia Carvalho
+CPF: 019.714.344-06
+Data de Nascimento: 14/11/1999
+Residência: 576-C
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 10/10/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gabriela Fernandes
+CPF: 059.507.817-50
+Data de Nascimento: 12/8/1982
+Residência: 007-I
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 13/10/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Andrade
+CPF: 141.813.351-57
+Data de Nascimento: 10/11/1981
+Residência: 332-O
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 9/3/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Neves
+CPF: 958.451.440-82
+Data de Nascimento: 26/7/1995
+Residência: 491-N
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 11/8/2024
+
+Quantidade de convidados: 25
+Taxa de ocupação: 54%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Matheus Fernandes
+CPF: 898.937.397-59
+Data de Nascimento: 20/3/1996
+Residência: 126-H
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 18/10/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Costa
+CPF: 158.325.952-48
+Data de Nascimento: 10/5/1982
+Residência: 694-Q
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 27/12/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leonardo Ribeiro
+CPF: 839.384.984-24
+Data de Nascimento: 1/6/2000
+Residência: 200-Y
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 8/5/2024
+
+Quantidade de convidados: 22
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Barbosa
+CPF: 628.874.305-45
+Data de Nascimento: 26/12/1991
+Residência: 234-U
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 25/7/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 36%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Maria Cavalcante
+CPF: 031.275.784-22
+Data de Nascimento: 5/4/1986
+Residência: 233-R
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 22/11/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vitor Gomes
+CPF: 211.488.558-24
+Data de Nascimento: 24/2/1990
+Residência: 004-S
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 4/4/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Camila Santos
+CPF: 030.108.187-30
+Data de Nascimento: 16/2/1988
+Residência: 082-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 18/12/2024
+
+Quantidade de convidados: 45
+Taxa de ocupação: 97%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Pinheiro
+CPF: 068.300.816-82
+Data de Nascimento: 18/10/1977
+Residência: 315-W
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 13/11/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafaela Macedo
+CPF: 427.985.541-76
+Data de Nascimento: 21/4/1973
+Residência: 250-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 15/10/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 21%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruno Moura
+CPF: 432.656.450-15
+Data de Nascimento: 12/10/2003
+Residência: 498-U
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 25/3/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 36%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Neves
+CPF: 958.451.440-82
+Data de Nascimento: 26/7/1995
+Residência: 491-N
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 7/2/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Vieira
+CPF: 298.121.580-86
+Data de Nascimento: 12/6/1979
+Residência: 275-D
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 18/1/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Duarte
+CPF: 240.490.861-47
+Data de Nascimento: 11/4/2001
+Residência: 947-F
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 9/1/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 52%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Dias
+CPF: 447.185.493-61
+Data de Nascimento: 15/4/1994
+Residência: 618-Q
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 24/12/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernando Azevedo
+CPF: 475.519.652-73
+Data de Nascimento: 25/11/1978
+Residência: 496-Q
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 9/1/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Pedro Batista
+CPF: 723.640.708-16
+Data de Nascimento: 20/11/1988
+Residência: 526-T
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 7/1/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Larissa Moura
+CPF: 387.277.095-24
+Data de Nascimento: 20/10/1981
+Residência: 370-L
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 23/5/2024
+
+Quantidade de convidados: 43
+Taxa de ocupação: 93%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gabriela Fernandes
+CPF: 059.507.817-50
+Data de Nascimento: 12/8/1982
+Residência: 007-I
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 24/7/2024
+
+Quantidade de convidados: 18
+Taxa de ocupação: 81%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Larissa Almeida
+CPF: 438.165.893-16
+Data de Nascimento: 28/9/1990
+Residência: 654-P
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 5/2/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 14%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Azevedo
+CPF: 903.776.306-40
+Data de Nascimento: 24/6/1993
+Residência: 503-T
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 12/12/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 54%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Fernanda Guimaraes
+CPF: 163.565.572-89
+Data de Nascimento: 25/4/1997
+Residência: 095-K
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 24/11/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 32%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Coelho
+CPF: 489.640.193-97
+Data de Nascimento: 26/12/1984
+Residência: 527-L
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 2/3/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 23%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Mariana Costa
+CPF: 590.782.082-25
+Data de Nascimento: 18/10/1997
+Residência: 212-M
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 2/2/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 57%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Vieira
+CPF: 298.121.580-86
+Data de Nascimento: 12/6/1979
+Residência: 275-D
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 24/5/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 43%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Roberto Teixeira
+CPF: 211.760.712-95
+Data de Nascimento: 8/1/1990
+Residência: 891-Z
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 11/5/2024
+
+Quantidade de convidados: 36
+Taxa de ocupação: 78%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Duarte
+CPF: 240.490.861-47
+Data de Nascimento: 11/4/2001
+Residência: 947-F
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 14/5/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Batista
+CPF: 193.540.369-57
+Data de Nascimento: 22/11/1977
+Residência: 621-O
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 21/7/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Duarte
+CPF: 773.920.555-65
+Data de Nascimento: 4/6/1996
+Residência: 141-N
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 9/10/2024
+
+Quantidade de convidados: 36
+Taxa de ocupação: 78%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Rezende
+CPF: 491.877.650-47
+Data de Nascimento: 6/5/1978
+Residência: 011-J
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 4/11/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 90%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Rezende
+CPF: 491.877.650-47
+Data de Nascimento: 6/5/1978
+Residência: 011-J
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 26/11/2024
+
+Quantidade de convidados: 43
+Taxa de ocupação: 93%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Bruna Coelho
+CPF: 318.712.279-96
+Data de Nascimento: 15/9/1970
+Residência: 137-V
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 25/4/2024
+
+Quantidade de convidados: 21
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Sampaio
+CPF: 868.634.915-43
+Data de Nascimento: 7/3/2000
+Residência: 578-I
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 2/3/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 52%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Freitas
+CPF: 326.026.261-26
+Data de Nascimento: 10/7/1994
+Residência: 843-B
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 9/4/2024
+
+Quantidade de convidados: 20
+Taxa de ocupação: 95%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Maria Almeida
+CPF: 045.430.948-04
+Data de Nascimento: 15/2/1974
+Residência: 218-M
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 16/4/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 31%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Ramos
+CPF: 410.866.634-07
+Data de Nascimento: 21/10/1971
+Residência: 993-V
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 22/5/2024
+
+Quantidade de convidados: 41
+Taxa de ocupação: 89%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Marcos Azevedo
+CPF: 903.776.306-40
+Data de Nascimento: 24/6/1993
+Residência: 503-T
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 9/11/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 19%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Andrade
+CPF: 136.746.085-47
+Data de Nascimento: 19/6/1981
+Residência: 848-P
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 16/6/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Dias
+CPF: 337.522.192-19
+Data de Nascimento: 24/1/2006
+Residência: 800-B
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 24/10/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 52%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Araujo
+CPF: 962.895.235-32
+Data de Nascimento: 7/4/1979
+Residência: 832-R
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 12/10/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 9%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leticia Carvalho
+CPF: 019.714.344-06
+Data de Nascimento: 14/11/1999
+Residência: 576-C
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 15/6/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 42%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Beatriz Silva
+CPF: 023.260.302-11
+Data de Nascimento: 13/11/1986
+Residência: 471-H
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 27/5/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 8%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Pinheiro
+CPF: 068.300.816-82
+Data de Nascimento: 18/10/1977
+Residência: 315-W
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 10/10/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Sampaio
+CPF: 916.224.515-48
+Data de Nascimento: 3/4/1976
+Residência: 919-P
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 19/10/2024
+
+Quantidade de convidados: 9
+Taxa de ocupação: 19%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Joao Barbosa
+CPF: 628.874.305-45
+Data de Nascimento: 26/12/1991
+Residência: 234-U
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 14/9/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 22%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Alexandre Carvalho
+CPF: 667.184.650-81
+Data de Nascimento: 26/9/1970
+Residência: 476-Y
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 1/2/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Camila Cunha
+CPF: 918.549.098-91
+Data de Nascimento: 8/12/1994
+Residência: 720-N
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 23/1/2024
+
+Quantidade de convidados: 23
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Luiza Melo
+CPF: 516.829.259-96
+Data de Nascimento: 15/5/1971
+Residência: 576-D
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 7/1/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 72%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Laura Vieira
+CPF: 127.096.683-72
+Data de Nascimento: 9/5/2001
+Residência: 293-T
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 21/11/2024
+
+Quantidade de convidados: 15
+Taxa de ocupação: 68%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Andrade
+CPF: 136.746.085-47
+Data de Nascimento: 19/6/1981
+Residência: 848-P
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 10/9/2024
+
+Quantidade de convidados: 14
+Taxa de ocupação: 63%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Dias
+CPF: 447.185.493-61
+Data de Nascimento: 15/4/1994
+Residência: 618-Q
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 13/6/2024
+
+Quantidade de convidados: 8
+Taxa de ocupação: 36%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafaela Cunha
+CPF: 128.001.705-69
+Data de Nascimento: 27/7/1983
+Residência: 766-J
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 20/2/2024
+
+Quantidade de convidados: 46
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Roberto Miranda
+CPF: 253.553.281-70
+Data de Nascimento: 1/7/1985
+Residência: 778-W
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 21/9/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 57%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Vinicius Vieira
+CPF: 298.121.580-86
+Data de Nascimento: 12/6/1979
+Residência: 275-D
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 5/12/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 33%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafaela Macedo
+CPF: 427.985.541-76
+Data de Nascimento: 21/4/1973
+Residência: 250-O
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 27/9/2024
+
+Quantidade de convidados: 38
+Taxa de ocupação: 82%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Rafaela Cunha
+CPF: 128.001.705-69
+Data de Nascimento: 27/7/1983
+Residência: 766-J
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 2/2/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 40%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Thiago Freitas
+CPF: 326.026.261-26
+Data de Nascimento: 10/7/1994
+Residência: 843-B
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 12/11/2024
+
+Quantidade de convidados: 18
+Taxa de ocupação: 85%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Camila Pinheiro
+CPF: 780.622.436-13
+Data de Nascimento: 14/7/1975
+Residência: 580-M
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 12/6/2024
+
+Quantidade de convidados: 22
+Taxa de ocupação: 47%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leonardo Dias
+CPF: 327.252.278-96
+Data de Nascimento: 2/4/1973
+Residência: 894-K
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 23/4/2024
+
+Quantidade de convidados: 42
+Taxa de ocupação: 91%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Leonardo Dias
+CPF: 327.252.278-96
+Data de Nascimento: 2/4/1973
+Residência: 894-K
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 9/2/2024
+
+Quantidade de convidados: 24
+Taxa de ocupação: 52%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Alexandre Ramos
+CPF: 606.086.351-10
+Data de Nascimento: 21/6/1982
+Residência: 438-K
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 24/2/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 76%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Andrade
+CPF: 136.746.085-47
+Data de Nascimento: 19/6/1981
+Residência: 848-P
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 1/1/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 45%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Eduardo Barbosa
+CPF: 150.647.674-45
+Data de Nascimento: 14/4/2003
+Residência: 769-F
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A4
+Capacidade: 5 convidado(s)
+Data da reserva: 21/3/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 80%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Patricia Barbosa
+CPF: 007.539.110-68
+Data de Nascimento: 17/1/1991
+Residência: 496-Z
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A3
+Capacidade: 22 convidado(s)
+Data da reserva: 13/11/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Felipe Mendes
+CPF: 961.975.101-01
+Data de Nascimento: 9/10/1988
+Residência: 936-Q
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 5/10/2024
+
+Quantidade de convidados: 18
+Taxa de ocupação: 39%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: André Andrade
+CPF: 498.303.377-10
+Data de Nascimento: 10/3/1994
+Residência: 111-H
+
+Area reservada: 
+Nome: Piscina
+Id: A2
+Capacidade: 21 convidado(s)
+Data da reserva: 17/5/2024
+
+Quantidade de convidados: 1
+Taxa de ocupação: 4%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Paulo Dias
+CPF: 337.522.192-19
+Data de Nascimento: 24/1/2006
+Residência: 800-B
+
+Area reservada: 
+Nome: Piscina
+Id: A1
+Capacidade: 46 convidado(s)
+Data da reserva: 10/3/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 21%
+------------------------------

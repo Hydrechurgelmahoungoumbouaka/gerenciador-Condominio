@@ -1,0 +1,32 @@
+--------- RESERVA -----------
+Morador: 
+Nome: Gustavo Moura
+CPF: 030.061.535-55
+Data de Nascimento: 18/10/1985
+Residência: 966-Z
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A1
+Capacidade: 53 convidado(s)
+Data da reserva: 14/11/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 11%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Amanda Rezende
+CPF: 666.365.069-03
+Data de Nascimento: 5/12/2005
+Residência: 165-G
+
+Area reservada: 
+Nome: Churrasqueira
+Id: A1
+Capacidade: 53 convidado(s)
+Data da reserva: 20/4/2024
+
+Quantidade de convidados: 34
+Taxa de ocupação: 64%
+------------------------------

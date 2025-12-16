@@ -1,0 +1,384 @@
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Rocha
+CPF: 182.241.118-56
+Data de Nascimento: 12/5/1989
+Residência: 495-X
+
+Area reservada: 
+Nome: Sala de Festas
+Id: A2
+Capacidade: 49 convidado(s)
+Data da reserva: 14/2/2024
+
+Quantidade de convidados: 42
+Taxa de ocupação: 85%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Macedo
+CPF: 208.793.025-80
+Data de Nascimento: 18/8/1974
+Residência: 574-X
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 38 convidado(s)
+Data da reserva: 2/1/2024
+
+Quantidade de convidados: 17
+Taxa de ocupação: 44%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Larissa Souza
+CPF: 577.984.359-76
+Data de Nascimento: 18/1/1994
+Residência: 283-M
+
+Area reservada: 
+Nome: Sala de Festas
+Id: A2
+Capacidade: 49 convidado(s)
+Data da reserva: 15/1/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 20%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Figueiredo
+CPF: 812.139.961-17
+Data de Nascimento: 4/8/1970
+Residência: 473-H
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 38 convidado(s)
+Data da reserva: 4/11/2024
+
+Quantidade de convidados: 7
+Taxa de ocupação: 18%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Larissa Souza
+CPF: 577.984.359-76
+Data de Nascimento: 18/1/1994
+Residência: 283-M
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A3
+Capacidade: 16 convidado(s)
+Data da reserva: 20/4/2024
+
+Quantidade de convidados: 4
+Taxa de ocupação: 25%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Larissa Souza
+CPF: 577.984.359-76
+Data de Nascimento: 18/1/1994
+Residência: 283-M
+
+Area reservada: 
+Nome: Sala de Festas
+Id: A2
+Capacidade: 49 convidado(s)
+Data da reserva: 5/11/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 22%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Rocha
+CPF: 182.241.118-56
+Data de Nascimento: 12/5/1989
+Residência: 495-X
+
+Area reservada: 
+Nome: Sala de Festas
+Id: A2
+Capacidade: 49 convidado(s)
+Data da reserva: 25/7/2024
+
+Quantidade de convidados: 39
+Taxa de ocupação: 79%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Figueiredo
+CPF: 812.139.961-17
+Data de Nascimento: 4/8/1970
+Residência: 473-H
+
+Area reservada: 
+Nome: Sala de Festas
+Id: A2
+Capacidade: 49 convidado(s)
+Data da reserva: 9/7/2024
+
+Quantidade de convidados: 36
+Taxa de ocupação: 73%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Rocha
+CPF: 182.241.118-56
+Data de Nascimento: 12/5/1989
+Residência: 495-X
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 38 convidado(s)
+Data da reserva: 5/2/2024
+
+Quantidade de convidados: 26
+Taxa de ocupação: 68%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Macedo
+CPF: 208.793.025-80
+Data de Nascimento: 18/8/1974
+Residência: 574-X
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 38 convidado(s)
+Data da reserva: 20/1/2024
+
+Quantidade de convidados: 25
+Taxa de ocupação: 65%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: André Azevedo
+CPF: 160.531.637-58
+Data de Nascimento: 23/7/1979
+Residência: 285-L
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 38 convidado(s)
+Data da reserva: 26/10/2024
+
+Quantidade de convidados: 19
+Taxa de ocupação: 50%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: André Azevedo
+CPF: 160.531.637-58
+Data de Nascimento: 23/7/1979
+Residência: 285-L
+
+Area reservada: 
+Nome: Sala de Festas
+Id: A2
+Capacidade: 49 convidado(s)
+Data da reserva: 11/5/2024
+
+Quantidade de convidados: 29
+Taxa de ocupação: 59%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Macedo
+CPF: 208.793.025-80
+Data de Nascimento: 18/8/1974
+Residência: 574-X
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 38 convidado(s)
+Data da reserva: 13/6/2024
+
+Quantidade de convidados: 23
+Taxa de ocupação: 60%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: André Azevedo
+CPF: 160.531.637-58
+Data de Nascimento: 23/7/1979
+Residência: 285-L
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A3
+Capacidade: 16 convidado(s)
+Data da reserva: 14/4/2024
+
+Quantidade de convidados: 2
+Taxa de ocupação: 12%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Larissa Souza
+CPF: 577.984.359-76
+Data de Nascimento: 18/1/1994
+Residência: 283-M
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 38 convidado(s)
+Data da reserva: 18/3/2024
+
+Quantidade de convidados: 5
+Taxa de ocupação: 13%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Figueiredo
+CPF: 812.139.961-17
+Data de Nascimento: 4/8/1970
+Residência: 473-H
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 38 convidado(s)
+Data da reserva: 25/6/2024
+
+Quantidade de convidados: 24
+Taxa de ocupação: 63%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Figueiredo
+CPF: 812.139.961-17
+Data de Nascimento: 4/8/1970
+Residência: 473-H
+
+Area reservada: 
+Nome: Sala de Festas
+Id: A2
+Capacidade: 49 convidado(s)
+Data da reserva: 23/12/2024
+
+Quantidade de convidados: 43
+Taxa de ocupação: 87%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Macedo
+CPF: 208.793.025-80
+Data de Nascimento: 18/8/1974
+Residência: 574-X
+
+Area reservada: 
+Nome: Sala de Festas
+Id: A2
+Capacidade: 49 convidado(s)
+Data da reserva: 1/4/2024
+
+Quantidade de convidados: 49
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Rocha
+CPF: 182.241.118-56
+Data de Nascimento: 12/5/1989
+Residência: 495-X
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 38 convidado(s)
+Data da reserva: 11/2/2024
+
+Quantidade de convidados: 28
+Taxa de ocupação: 73%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Figueiredo
+CPF: 812.139.961-17
+Data de Nascimento: 4/8/1970
+Residência: 473-H
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A3
+Capacidade: 16 convidado(s)
+Data da reserva: 24/4/2024
+
+Quantidade de convidados: 10
+Taxa de ocupação: 62%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Figueiredo
+CPF: 812.139.961-17
+Data de Nascimento: 4/8/1970
+Residência: 473-H
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A3
+Capacidade: 16 convidado(s)
+Data da reserva: 19/11/2024
+
+Quantidade de convidados: 16
+Taxa de ocupação: 100%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Manuela Rocha
+CPF: 182.241.118-56
+Data de Nascimento: 12/5/1989
+Residência: 495-X
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 38 convidado(s)
+Data da reserva: 9/11/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 28%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Diego Macedo
+CPF: 208.793.025-80
+Data de Nascimento: 18/8/1974
+Residência: 574-X
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 38 convidado(s)
+Data da reserva: 28/4/2024
+
+Quantidade de convidados: 3
+Taxa de ocupação: 7%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Daniel Figueiredo
+CPF: 812.139.961-17
+Data de Nascimento: 4/8/1970
+Residência: 473-H
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 38 convidado(s)
+Data da reserva: 18/1/2024
+
+Quantidade de convidados: 11
+Taxa de ocupação: 28%
+------------------------------

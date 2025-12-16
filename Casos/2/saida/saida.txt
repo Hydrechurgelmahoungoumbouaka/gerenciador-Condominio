@@ -1,0 +1,32 @@
+--------- RESERVA -----------
+Morador: 
+Nome: Carolina Andrade
+CPF: 012.146.323-96
+Data de Nascimento: 10/4/1988
+Residência: 786-R
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 20 convidado(s)
+Data da reserva: 12/5/2024
+
+Quantidade de convidados: 6
+Taxa de ocupação: 30%
+------------------------------
+--------- RESERVA -----------
+Morador: 
+Nome: Carolina Andrade
+CPF: 012.146.323-96
+Data de Nascimento: 10/4/1988
+Residência: 786-R
+
+Area reservada: 
+Nome: Salao de Jogos
+Id: A1
+Capacidade: 20 convidado(s)
+Data da reserva: 11/9/2024
+
+Quantidade de convidados: 12
+Taxa de ocupação: 60%
+------------------------------
